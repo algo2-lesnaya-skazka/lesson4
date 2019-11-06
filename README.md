@@ -1,15 +1,23 @@
 # Python часть
 
-Урок:<br> 
-1) Книга python страницы с 108 по 114<br>  
-2) Немного теории https://docs.google.com/document/d/1mYEkGcgHK5RGlFnpADw9d36dVA3Ud3QM_8MqM7Q7d3Y<br>
+Урок 4:<br> 
+1) Книга python страницы с 115 по 118<br>  
+2) Немного теории https://docs.google.com/document/d/1dhr_vlniCgKQJ6VsQWnOwwt_ZPJ9OgA_sqkBJPcSc4k/<br>
 
-Задачи:<br>
+Задачи предыдущего урока:<br>
 https://stepik.org/lesson/142208/step/4?unit=116414<br>
+
+Дополнительные задачи по предыдущим:<br>
 https://stepik.org/lesson/253088/step/1?unit=234410<br>
 https://stepik.org/lesson/253733/step/1?unit=234411<br>
 Итог скриншоты<br>
 
+Задачи текущего урока:<br>
+https://stepik.org/lesson/181007/step/5?unit=155631<br>
+https://stepik.org/lesson/181445/step/1?unit=156064<br>
+
+
+Дополнительные ссылки:<br>
 Python 3 загрузка<br>
 https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe<br>
 
